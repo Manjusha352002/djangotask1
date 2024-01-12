@@ -1,0 +1,22 @@
+/* Resetting some default styles */
+body, h1, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Applying styles to the body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+/* Styling the header (h1) */
+h1 {
+    color: #007bff;
+}
+
+/* Styling paragraphs (p) */
+p {
+    line-height: 1.6;
+}
